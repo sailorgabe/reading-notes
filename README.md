@@ -1,4 +1,4 @@
-# My Code Fellow Reading Notes
+# Gabriel's Code Fellow Reading Notes
  
 **My Code Fellows reading notes**
 
