@@ -16,5 +16,7 @@ This site is about notes for Code Fellows.
 
 -Ask for help!!
 
+[cat](/assets/images/electrocat.png)
+
 [Github Profile](https://github.com/sailorgabe)
 
