@@ -16,7 +16,7 @@ This site is about notes for Code Fellows.
 
 -Ask for help!!
 
-[cat](/assets/images/electrocat.png)
+[Warriors](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwarriors&psig=AOvVaw2_ZuU2DcQnrabg3QddjAmE&ust=1696962579600000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICpqLXM6YEDFQAAAAAdAAAAABAD)
 
 [Github Profile](https://github.com/sailorgabe)
 
