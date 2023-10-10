@@ -18,7 +18,27 @@ This site is about notes for Code Fellows.
 
 ## Table of Contents
 
-[Class 1](class-01.md)
+### **Class 102**
+
+[Class 1](102/class-01.md)
+
+[Class 2](102/class-02.md)
+
+[Class 3](102/class-03.md)
+
+[Class 4](102/class-04.md)
+
+[Class 5](102/class-05.md)
+
+[Class 6](102/class-06.md)
+
+[Class 7](102/class-07.md)
+
+[Class 8](102/class-08.md)
+
+
+
+
 
 
 
