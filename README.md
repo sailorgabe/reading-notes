@@ -1,6 +1,6 @@
 # Gabriel's Code Fellow Reading Notes
  
-**My Code Fellows reading notes**
+## **My Code Fellows reading notes**
 
 > My name is Gabriel Urquidez.  I retired from the Navy in 2022. I have utilized VETTEC to fund my new career change into software engineering. I am happily married with three girls. We are moving back home to the California Bay Area in December.  My goal is to land a good-paying job and raise my girls back home.  
 
