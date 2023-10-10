@@ -20,5 +20,5 @@ This site is about notes for Code Fellows.
 
 [Check out my GitHub Profile](https://github.com/sailorgabe)
 
-![Linkedin](https://media.licdn.com/dms/image/D4E03AQGpBeJS9jYMtg/profile-displayphoto-shrink_200_200/0/1665413805357?e=1702512000&v=beta&t=eY6e_akH9sC-3yQauUIdBVuLT6yMLFdSpTkn5VHzsPk)
+![Linkedin](https://github.com/sailorgabe/reading-notes/blob/main/Gabriel%20Linkedin.jpg)
 
