@@ -16,6 +16,10 @@ This site is about notes for Code Fellows.
 
 1. Ask for help!!
 
+## Table of Contents
+
+[Class 1](class-01.md)
+
 
 
 [Check out my GitHub Profile](https://github.com/sailorgabe)
