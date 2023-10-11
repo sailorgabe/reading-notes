@@ -17,7 +17,7 @@ extensions available when you need them
 >mkdir "make directory" Used to make a new directory.
 >touch creates a new empty file.  You need to do touch then name the file.  
 
-**Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.**
+**Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? Arguments are extra instructions given to a command.**
 
 >cd projects - chenages to projects directory
 >mkdir new-project - creates a new directory in projects.
