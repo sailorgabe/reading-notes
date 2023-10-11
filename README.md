@@ -1,6 +1,6 @@
 # Gabriel's Code Fellow Reading Notes
  
-**My Code Fellows reading notes**
+## **My Code Fellows reading notes**
 
 > My name is Gabriel Urquidez.  I retired from the Navy in 2022. I have utilized VETTEC to fund my new career change into software engineering. I am happily married with three girls. We are moving back home to the California Bay Area in December.  My goal is to land a good-paying job and raise my girls back home.  
 
@@ -69,7 +69,16 @@ This site is about notes for Code Fellows.
 [Class 15](201/class-15.md)
 
 
+<<<<<<< HEAD
 [Warriors fan page](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwarriors&psig=AOvVaw2_ZuU2DcQnrabg3QddjAmE&ust=1696962579600000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICpqLXM6YEDFQAAAAAdAAAAABAD)
+=======
+
+
+
+
+
+
+>>>>>>> 698d32c049915eb4278a59b14b1d3a8907d2be41
 
 [Check out my GitHub Profile](https://github.com/sailorgabe)
 

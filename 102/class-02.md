@@ -1,36 +1,37 @@
 ## Class-02 Reading Notes: The Coder's Computer
 
-Read:01 - Learning Markdown
-What is Markdown?
+**What are four important features to look for in a text editor?**
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages. *
-Why do we use Markdown?
+>1. code completion 
 
-Use it anywhere *
+>2. syntax highlighting
 
-Markdown is portable *
+>3. a nice variety of themes (to reduce eye strain and
+fatigue)
 
-Platform independent *
+4. the ability to choose from a healthy selection of
+extensions available when you need them
 
-Future proof *
+**What do the following commands do?**
 
-Everyone uses it *
+>pwd "print working directory" Tells you what your current or present working directory is.
 
-What symbol will create a heading in Markdown?
+>ls "list" Lists all files in that directory.
 
-How many do you need to create the largest heading?
+>cd "change directory" Move to another directory.
 
-1
+>mkdir "make directory" Used to make a new directory.
 
-How many do you need to create the smallest heading?
+>touch creates a new empty file.  You need to do touch then name the file.  
 
-6
+**Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.**
 
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
+>cd projects - chenages to projects directory
 
-How do you create a link with Markdown?
+>mkdir new-project - creates a new directory in projects.
 
-name
+>touch new-project/newfile.md creates a new file in projects.
 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+>cd .. - Returns you to main directory.
 
+>ls projects/new-project - Lists all files in project directory.
