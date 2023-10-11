@@ -6,7 +6,7 @@
 
 **What are the three ways to insert CSS into your project?**
 
-> Inline Styles: This method involves adding CSS styles directly within the HTML elements using the style attribute.
+> Inline Styles: This method involves adding CSS styles directly within the HTML elements using the style attribute.git 
 > Internal (or Embedded) Styles: This method involves adding styles within the <style> tags in the HTML's <head> section.
 > External Styles: This method involves linking to an external .css file.
 
