@@ -38,6 +38,8 @@ This site is about notes for Code Fellows.
 
 ### **Class 201**
 
+[Prework].(prompt-engineering.md)
+
 [Class 1](201/class-01.md)
 
 [Class 2](201/class-02.md)
