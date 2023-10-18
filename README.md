@@ -69,17 +69,7 @@ This site is about notes for Code Fellows.
 [Class 15](201/class-15.md)
 
 
-<<<<<<< HEAD
-[Warriors fan page](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwarriors&psig=AOvVaw2_ZuU2DcQnrabg3QddjAmE&ust=1696962579600000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICpqLXM6YEDFQAAAAAdAAAAABAD)
-=======
-
-
-
-
-
-
->>>>>>> 698d32c049915eb4278a59b14b1d3a8907d2be41
 
 [Check out my GitHub Profile](https://github.com/sailorgabe)
 
-![Linkedin](https://github.com/sailorgabe/reading-notes/blob/main/Gabriel%20Linkedin.jpg)
+
