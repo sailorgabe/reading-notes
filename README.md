@@ -44,6 +44,8 @@ This site is about notes for Code Fellows.
 
 ### **Class 201**
 
+[prompt-engineering](https://github.com/sailorgabe/reading-notes/blob/main/prompt-engineering.md)
+
 [Class 1](201/class-01.md)
 
 [Class 2](201/class-02.md)
