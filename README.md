@@ -6,7 +6,7 @@
 
 My name is Gabriel Urquidez.  I'm the <sup>father</sup> of three girls and husband to my one and only sweetheart, Caroline.  Last year, I retired from the Navy, and this year I want to try to become a ~golfer,~ ~male model,~ ~ shotcaller,~... software engineer. 😬 I'll confess I'm not the smartest guy in the world, but if you give me a minute, I'll figure it out. Anyway, we are moving to California after this course!  
 
-![Profile Linkedin Picutre of Gabriel](https://github.com/sailorgabe/reading-notes-2/blob/main/Profile%20picture%20codefellows.jpg)
+![Profile Linkedin Pic of Gabriel](https://github.com/sailorgabe/reading-notes-2/blob/main/Profile%20picture%20codefellows.jpg)
 
 [Check out my GitHub Profile](https://github.com/sailorgabe)
 
