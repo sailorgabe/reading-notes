@@ -8,7 +8,7 @@ My name is Gabriel Urquidez.  I'm the <sup>father</sup> of three girls and husba
 
 ![Profile Linkedin Picutre of Gabriel](https://github.com/sailorgabe/reading-notes-2/blob/main/Profile%20picture%20codefellows.jpg)
 
-[GitHub Profile](https://github.com/sailorgabe)
+[Check out my GitHub Profile](https://github.com/sailorgabe)
 
 This site is about notes for Code Fellows.
 
@@ -24,7 +24,7 @@ This site is about notes for Code Fellows.
 
 ## Table of Contents
 
-### **Class 102**
+## **Code-102 - Intro to Software Development**
 
 [Class 1](102/class-01.md)
 
@@ -42,7 +42,7 @@ This site is about notes for Code Fellows.
 
 [Class 8](102/class-08.md)
 
-### **Class 201**
+## **Code 201 - Foundations of Software Development**
 
 [prompt-engineering](https://github.com/sailorgabe/reading-notes/blob/main/prompt-engineering.md)
 
@@ -76,8 +76,9 @@ This site is about notes for Code Fellows.
 
 [Class 15](201/class-15.md)
 
+## **Code 301 - Intermediate Software Development**
 
+## **Code 401 - Advanced Software Development**
 
-[Check out my GitHub Profile](https://github.com/sailorgabe)
 
 
