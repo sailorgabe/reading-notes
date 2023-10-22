@@ -88,13 +88,13 @@ A variable in JavaScript is a symbolic name or identifier that is used to store 
 
 In HTML (Hypertext Markup Language), an attribute is additional information provided within the opening tag of an HTML element. Attributes are used to modify or define the characteristics, properties, or behavior of the element. They are always specified as name-value pairs, separated by an equal sign (=), and are placed inside the element's opening tag.
 
-<elementName attributeName="attributeValue">
+elementName attributeName="attributeValue">
 
->elementName: This is the name of the HTML element, such as "img," "a," "div," or "input."
+elementName: This is the name of the HTML element, such as "img," "a," "div," or "input."
 
->attributeName: This is the name of the attribute, which specifies what aspect of the element you want to modify or define.
+attributeName: This is the name of the attribute, which specifies what aspect of the element you want to modify or define.
 
->attributeValue: This is the value assigned to the attribute. It can be a text string, a number, a URL, or other valid values depending on the attribute's purpose.
+attributeValue: This is the value assigned to the attribute. It can be a text string, a number, a URL, or other valid values depending on the attribute's purpose.
 
 ## **Describe the Anatomy of an HTMl element.**
 
@@ -102,7 +102,7 @@ The anatomy of an HTML element consists of various parts within the element's op
 
 **Opening Tag** (<elementName>): The opening tag is the first part of an HTML element and consists of the following:
 
-<: The less-than symbol (<) signifies the start of the opening tag.
+The less-than symbol (<) signifies the start of the opening tag.
 
 elementName: This is the name of the HTML element, such as "div," "p," "a," "img," etc. It specifies the type of element you are creating.
 
@@ -112,7 +112,7 @@ Attributes: Optionally, you can include one or more attributes within the openin
 
 **Closing Tag** (</elementName>): The closing tag marks the end of the HTML element. It consists of the following:
 
-</: The less-than symbol followed by a forward slash (</) signifies the start of the closing tag.
+The less-than symbol followed by a forward slash (</) signifies the start of the closing tag.
 
 elementName: This matches the name of the opening tag and indicates the end of the element.
 
