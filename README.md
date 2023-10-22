@@ -46,6 +46,8 @@ This site is about notes for Code Fellows.
 
 [prompt-engineering](https://github.com/sailorgabe/reading-notes/blob/main/prompt-engineering.md)
 
+[Things I want to know more about](https://github.com/sailorgabe/reading-notes/blob/main/Things%20I%20want%20to%20know%20more%20about)
+
 [Class 1](201/class-01.md)
 
 [Class 2](201/class-02.md)
