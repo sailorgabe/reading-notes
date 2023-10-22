@@ -1,3 +1,5 @@
+The topic of understanding how a webpage works in important to understand which tools a developer can you use to maximize the web interface.  If a developer doesn't understand how the website works he will not have the level of knowledge to make impactful change.  
+
 # **What is JavaScript?**
 
 ## **Compose a short poem describing how HTTP sends data between computers.**
@@ -20,7 +22,7 @@ HTTP bridges the gap, with utmost care.
 So let us marvel at this digital art,
 HTTP, the conduit of our digital heart.
 In the world of bytes, it's a conductor's wand,
-Sending data between computers, far beyond.
+Sending data between computers, far beyond. (source: GitHub)
 
 ## **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
