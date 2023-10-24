@@ -1,2 +1,15 @@
 I'm unsure about the need for the terminal,GitHub, and VS editor.  Don't they all do the same thing? 
 
+some git commands:  git add ignore - keeps certain files that are private.  
+
+echo "ingnoreme.txt" >> .gitignore
+cat .gitignore  --->> gitignore website
+
+gst . (what does this mean?)
+
+make a folder into a repository.
+git --version
+git --help
+git init -? short for intiilaze (set it up for the first time)
+rm -fr .git (removes repository)
+
