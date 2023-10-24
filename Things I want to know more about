@@ -2,7 +2,7 @@ I'm unsure about the need for the terminal,GitHub, and VS editor.  Don't they al
 
 some git commands:  git add ignore - keeps certain files that are private.  
 
-echo "ingnoreme.txt" >> .gitignore
+echo "ingnoreme.txt" >> .gitignore.io
 cat .gitignore  --->> gitignore website
 
 gst . (what does this mean?)
