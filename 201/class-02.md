@@ -141,4 +141,4 @@ The || operator returns true if at least one of its operands (expressions) on it
 If both operands are false, the entire expression evaluates to false.
 It's often used to provide alternatives or to check if at least one condition is true.
 
-In summary, && requires both conditions to be true for the result to be true, while || only requires one of the conditions to be true for the result to be true. These operators are fundamental for creating conditional logic and controlling the flow of your JavaScript programs based on different conditions.(source chat.openai.com)
+In summary, && requires both conditions to be true for the result to be true, while || only requires one of the conditions to be true for the result to be true. These operators are fundamental for creating conditional logic and controlling the flow of your JavaScript programs based on different conditions. (source chat.openai.com)
