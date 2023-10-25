@@ -13,3 +13,5 @@ git --help
 git init -? short for intiilaze (set it up for the first time)
 rm -fr .git (removes repository)
 
+Refractoring - changing the code within but not effecting the outside.  
+
