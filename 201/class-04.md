@@ -22,36 +22,35 @@ When you click on a hyperlink in a web page, the browser uses the information in
 
 ## What is meant by “normal flow”?
 
-In web design and CSS (Cascading Style Sheets), "normal flow" refers to the default layout behavior of HTML elements on a web page before any additional CSS styling or positioning is applied. It represents the way elements are displayed in the order they appear in the HTML document, with each block-level element stacking on top of the previous one vertically.(chatgpt)
+In web design and CSS (Cascading Style Sheets), "normal flow" refers to the default layout behavior of HTML elements on a web page before any additional CSS styling or positioning is applied. It represents the way elements are displayed in the order they appear in the HTML document, with each block-level element stacking on top of the previous one vertically. (chatgpt)
 
 ## What are a few differences between block-level and inline elements?
 
-Block-level and inline elements are two fundamental types of HTML elements, and they have distinct characteristics and purposes. Here are some key differences between them:
+**Display Behavior:**
 
-Display Behavior:
+**Block-level elements:** These elements create a block-level box, typically spanning the full width of their parent container, and they start on a new line. Block-level elements stack vertically on top of each other. 
 
-Block-level elements: Block-level elements create a "block" or a rectangular box that spans the full width of their parent container. They start on a new line and stack vertically on top of each other. Examples include <div>, <p>, <h1> to <h6>, and <ul>.
-Inline elements: Inline elements flow within the text content of a document and do not create line breaks or new lines. They occupy only as much width as necessary for their content and stack horizontally. Examples include <span>, <a>, <strong>, <em>, and <img>.
-Width and Height:
+**Inline elements:** Inline elements, on the other hand, do not create a new block-level box. They flow within the content alongside other inline elements and do not start on a new line. 
 
-Block-level elements: Block-level elements typically have a default width of 100% of their parent container's width. Their height is determined by their content, which can expand vertically.
-Inline elements: Inline elements take up only as much width as necessary for their content, and their height is determined by the surrounding text and other inline elements.
-Line Breaks:
+**Width and Height:**
 
-Block-level elements: Block-level elements create line breaks before and after themselves, which means they start on a new line and push subsequent content to a new line as well.
-Inline elements: Inline elements do not create line breaks before or after themselves. They flow within the text content and do not force adjacent content onto new lines.
+**Block-level elements:** By default, block-level elements typically have a width of 100% of their parent container and a height that adjusts to their content. You can control their width, height, and positioning using CSS.
+
+**Inline elements:** Inline elements take up only as much width as necessary for their content and only as much height as needed to accommodate their content. You can control their width but not their height with CSS.
+
+**Line Breaks:**
+
+**Block-level elements:** Block-level elements create line breaks before and after themselves, causing content following them to appear on a new line.
+Inline elements: Inline elements do not introduce line breaks. They flow within the text content and do not force new lines.
 Nested Elements:
 
-Block-level elements: Block-level elements can contain other block-level and inline elements, making them suitable for creating structured layouts.
-Inline elements: Inline elements are typically contained within block-level elements. Nesting block-level elements inside inline elements is not considered valid HTML.
-Examples:
+**Block-level elements:** Block-level elements can contain other block-level elements and inline elements, allowing for the creation of complex hierarchical structures.
+Inline elements: Inline elements are typically contained within block-level elements. Nesting block-level elements within inline elements is not valid HTML.
 
-Block-level elements: <div>, <p>, <h1> to <h6>, <ul>, <li>, <blockquote>, <form>, etc.
-Inline elements: <span>, <a>, <strong>, <em>, <img>, <br>, <i>, <code>, etc.
-Styling and Layout:
+**Default Styling:**
 
-Block-level elements are often used to structure the layout of a web page and are subject to CSS properties that control layout, such as margins, padding, and width.
-Inline elements are typically used for styling and formatting within text content, and they can be styled with CSS properties like font-weight, color, and text-decoration.(chatgpt)
+**Block-level elements:** Block-level elements often have default styling that includes starting on a new line and stacking vertically, making them suitable for structuring the layout of a web page.
+Inline elements: Inline elements are used for text-level styling and formatting within the content, such as emphasizing text, creating hyperlinks, or applying inline styles.(chatgpt)
 
 ## ___ positioning is the default for every html element.
 
