@@ -1,17 +1,18 @@
-I'm unsure about the need for the terminal,GitHub, and VS editor.  Don't they all do the same thing? 
+I need clarification about the need for the terminal, GitHub, and VS editor.  Don't they all do the same thing? 
 
-some git commands:  git add ignore - keeps certain files that are private.  
+Some git commands:  git add ignore - keeps certain files that are private.  
 
 echo "ingnoreme.txt" >> .gitignore.io
 cat .gitignore  --->> gitignore website
 
-gst . (what does this mean?)
+GST. (what does this mean?)
 
-make a folder into a repository.
+Make a folder into a repository.
 git --version
 git --help
-git init -? short for intiilaze (set it up for the first time)
+git init -? short for initialize (set it up for the first time)
 rm -fr .git (removes repository)
 
-Refractoring - changing the code within but not effecting the outside.  
+Refactoring - changing the code within but not affecting the outside.  
 
+Well, I think I am offically struggling.  I'm going to start over this weekend and try to reclaim my lost work.
